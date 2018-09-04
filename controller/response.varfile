@@ -1,0 +1,12 @@
+serverHostName=cac17dba509e
+sys.languageId=en
+disableEULA=true
+
+platformAdmin.port=9191
+platformAdmin.databasePort=3377
+platformAdmin.dataDir=/opt/appdynamics/enterpriseconsole/mysql/data
+platformAdmin.databasePassword=password
+platformAdmin.databaseRootPassword=password
+platformAdmin.adminPassword=password
+platformAdmin.useHttps$Boolean=false
+sys.installationDir=/opt/appdynamics/enterpriseconsole
